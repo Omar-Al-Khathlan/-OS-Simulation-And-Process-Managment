@@ -49,10 +49,6 @@ public class RAM extends Thread {
         return false;
     }
     
-    public static PCB peakReadyQueue() {
-    	return readyQueue.peek();
-    }
-    
     // Setters and Getters.
     public static PCB getReadyQueue() {
         return readyQueue.poll();
