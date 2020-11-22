@@ -23,6 +23,6 @@ Output from the simulation: A text file containing statistics about all processe
 - And should also output the CPU Utilization of the system .
 
 ## Team
-- [Omar Al-khathlan] (https://github.com/Omar-Al-Khathlan)
+- [Omar Al-khathlan](https://github.com/Omar-Al-Khathlan)
 - [Mohammed Al-Wohayyeb](https://github.com/m-alwohayyeb)
-- [Tariq Al-jaber] (https://github.com/Tea2Jay)
+- [Tariq Al-jaber](https://github.com/Tea2Jay)
